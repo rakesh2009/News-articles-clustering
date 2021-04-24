@@ -16,6 +16,7 @@ Solution:
      b) Listing of top 50 words in entertainment cluster and printing last 50th word (before & after implementing PCA)
      
 Dependencies:
+
 Python 3+
 jupyter notebbook
 Pandas
@@ -25,9 +26,9 @@ K-means
 PCA
 
 Purpose:
+
 The purpose of this project is to gain insights in 
 a) Pratical implementation - Clustering of News articles with the help of K-Means alogarithm for finding the suitable & related topics clusters
 b) Dimensionality reduction using PCA.
 
-Future projects implementation:
-It can be extended to any type of clustering
+
