@@ -17,12 +17,12 @@ Solution:
      
 Dependencies:
 
-Python 3+
-jupyter notebbook
-Pandas
-Numpy
-Sklearn
-K-means
+Python 3+,
+jupyter notebbook,
+Pandas,
+Numpy,
+Sklearn,
+K-means,
 PCA
 
 Purpose:
