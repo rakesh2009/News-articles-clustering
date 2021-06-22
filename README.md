@@ -1,11 +1,11 @@
 # News-articles-clustering
 
-Problem Statement :
+## Problem Statement :
 
 Dataset consists of news articles pertaining to business,political,entertainment, sports,technology are mentioned in JSON format. There is no segregation of articles in the dataset. All are mixed. We have to segregate the articles and validate which article pertains to which topic(business,political,entertainment, sports,technology ).
 
 
-Solution:
+## Solution:
 
 1) To tackle this problem I have implemented the K-means clustering
 2) Firstly, I applied the K-means clustering without dimensionality reduction
@@ -15,7 +15,7 @@ Solution:
      a) which cluster has max. articles(before & after implementing PCA)
      b) top 50 words in entertainment cluster and printing last 50th word (before & after implementing PCA)
      
-Dependencies:
+## Dependencies:
 
 Python 3+,
 jupyter notebbook,
@@ -25,11 +25,14 @@ Sklearn,
 K-means,
 PCA
 
-Purpose:
+## Purpose:
 
-The purpose of this project is to gain insights & help others in 
+The purpose of this project is to gain insights, develop competency & help others in 
 
-a) Pratical implementation - Clustering of News articles with the help of K-Means alogarithm for finding the suitable & related topics clusters
+a) Pratical implementation of K-Means clustering using python code 
 
-b) Dimensionality reduction using PCA.
+b) Clustering of News articles with the help of K-Means alogarithm for finding the suitable & related topics clusters
+
+c) Dimensionality reduction using PCA.
+
 
